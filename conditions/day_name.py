@@ -1,0 +1,22 @@
+# PSEB AI Web Engineering - Conditions Task 09
+# Topic: Print the day name for a number (1 to 7)
+# Muhammad Shahbaz - IUB (SE 4M)
+
+day = int(input("Enter day number (1-7): "))
+
+if day == 1:
+    print("Monday")
+elif day == 2:
+    print("Tuesday")
+elif day == 3:
+    print("Wednesday")
+elif day == 4:
+    print("Thursday")
+elif day == 5:
+    print("Friday")
+elif day == 6:
+    print("Saturday")
+elif day == 7:
+    print("Sunday")
+else:
+    print("Invalid number! Enter a number between 1 and 7")
