@@ -1,6 +1,6 @@
-# PSEB — AI Web Engineering (Python Practice)
+# PSEB — AI Web Engineering 
 
-**Muhammad Shahbaz** — Software Engineering, The Islamia University of Bahawalpur (IUB)
+**Muhammad Shahbaz** 
 
 My practice repository for the **PSEB AI Web Engineering** course. Each file covers one day / one topic of Python, with small tasks at the end.
 
